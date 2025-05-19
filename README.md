@@ -11,3 +11,8 @@ This project explores the fascinating intersection of artificial intelligence an
 *   **Generative Model-Powered:**  Leverages large language models (LLMs) to generate human-like and informative commentary.
 *   **Retrieval-Augmented Generation (RAG):** Employs a RAG pipeline to retrieve relevant information and enhance the quality of the commentary.
 *   **Scalable Dataset:** Trained on a large dataset of annotated chess games and commentary.
+
+## 📄 Research Paper
+
+You can read the full research paper here:  
+[📘 Real-time Chess Commentary System Research Paper (PDF)](https://drive.google.com/file/d/1IS0EnPcBWo710nVCCV_VUP5oDXOlxhWE/view?usp=sharing)
